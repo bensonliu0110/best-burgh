@@ -6,9 +6,9 @@
 
 **Datasets Used In Our Analysis:**
 
-Popularity Sub-Metric - 
+Popularity Sub-Metric - Pittsburgh SNAP Census Data - Housing 2010 (WPRDC)
 
-Dataset Link -
+Dataset Link - https://data.wprdc.org/dataset/pgh/resource/94f8eda2-fa77-49a2-9190-3a6ed85fc561
 
 Safety Sub-Metric -
 
