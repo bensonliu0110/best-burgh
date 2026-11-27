@@ -1,4 +1,4 @@
-# Final Analysis On The Best Neighborhood In Pittsburgh
+# The Best Neighborhood In Pittsburgh
 
 **Team Name:** Best Burgh
 
